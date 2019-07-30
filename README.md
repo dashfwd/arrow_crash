@@ -1,4 +1,6 @@
 # arrow-core-crash-demo
+
+See issue https://github.com/arrow-kt/arrow/issues/1535
  
 This is a demo of how this code causes Arrow-kt.io to crash:
 

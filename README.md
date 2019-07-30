@@ -10,3 +10,7 @@ This is a demo of how this code causes Arrow-kt.io to crash:
     //    Caused by: java.lang.VerifyError: Bad type on operand stack
     // with jdk-11.0.2
     some11.getOrElse { Some(0) }
+
+To run:
+
+    $ ./gradlew runJar

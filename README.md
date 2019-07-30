@@ -1,6 +1,10 @@
-# arrow-core-crash-demo
+# Kotlin inlining bug related to Arrow
 
-See issue https://github.com/arrow-kt/arrow/issues/1535
+Link to JetBrains issue: 
+- https://youtrack.jetbrains.com/issue/KT-33054
+
+This was originally opened as an Arrow issue at:
+- https://github.com/arrow-kt/arrow/issues/1535
  
 This is a demo of how this code causes Arrow-kt.io to crash:
 

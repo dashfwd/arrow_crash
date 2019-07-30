@@ -19,6 +19,7 @@ This is a demo of how this code causes Arrow-kt.io to crash:
 
 To run:
 
+    $ ./gradlew assemble
     $ ./gradlew runJar
     
 The output:
